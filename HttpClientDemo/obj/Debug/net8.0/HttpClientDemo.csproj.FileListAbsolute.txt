@@ -33,3 +33,4 @@ D:\Projects\HttpClientDemo\HttpClientDemo\obj\Debug\net8.0\ref\HttpClientDemo.dl
 D:\Projects\HttpClientDemo\HttpClientDemo\bin\Debug\net8.0\System.Net.Http.Formatting.dll
 D:\Projects\HttpClientDemo\HttpClientDemo\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\Projects\HttpClientDemo\HttpClientDemo\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Projects\HttpClientDemo\HttpClientDemo\obj\Debug\net8.0\HttpClientDemo.sourcelink.json

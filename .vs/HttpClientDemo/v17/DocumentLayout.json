@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "D:\\Projects\\HttpClientDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|D:\\Projects\\HttpClientDemo\\httpclientdemo\\httpclientservice\\httpclientservives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|solutionrelative:httpclientdemo\\httpclientservice\\httpclientservives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|d:\\projects\\httpclientdemo\\httpclientdemo\\httpclientservice\\ihttpclientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|solutionrelative:httpclientdemo\\httpclientservice\\ihttpclientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|d:\\projects\\httpclientdemo\\httpclientdemo\\domains\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|solutionrelative:httpclientdemo\\domains\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|d:\\projects\\httpclientdemo\\httpclientdemo\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|D:\\Projects\\HttpClientDemo\\httpclientdemo\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|solutionrelative:httpclientdemo\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|d:\\projects\\httpclientdemo\\httpclientdemo\\httpclientservice\\httpclientservives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|solutionrelative:httpclientdemo\\httpclientservice\\httpclientservives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|D:\\Projects\\HttpClientDemo\\httpclientdemo\\domains\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|solutionrelative:httpclientdemo\\domains\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|d:\\projects\\httpclientdemo\\httpclientdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|D:\\Projects\\HttpClientDemo\\httpclientdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|solutionrelative:httpclientdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|d:\\projects\\httpclientdemo\\httpclientdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|D:\\Projects\\HttpClientDemo\\httpclientdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E09C6C-932E-4D82-BE8E-433E861B7E45}|HttpClientDemo\\HttpClientDemo.csproj|solutionrelative:httpclientdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "HttpClientDemo\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T09:56:10.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T09:56:10.084Z"
             },
             {
               "$type": "Document",
@@ -57,27 +56,27 @@
               "RelativeDocumentMoniker": "HttpClientDemo\\Controllers\\PostsController.cs",
               "ToolTip": "D:\\Projects\\HttpClientDemo\\HttpClientDemo\\Controllers\\PostsController.cs",
               "RelativeToolTip": "HttpClientDemo\\Controllers\\PostsController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAgAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T09:56:44.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HttpClientServives.cs",
               "DocumentMoniker": "D:\\Projects\\HttpClientDemo\\HttpClientDemo\\HttpClientService\\HttpClientServives.cs",
               "RelativeDocumentMoniker": "HttpClientDemo\\HttpClientService\\HttpClientServives.cs",
               "ToolTip": "D:\\Projects\\HttpClientDemo\\HttpClientDemo\\HttpClientService\\HttpClientServives.cs",
               "RelativeToolTip": "HttpClientDemo\\HttpClientService\\HttpClientServives.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAcwB4AAAArAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T09:43:40.56Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Post.cs",
               "DocumentMoniker": "D:\\Projects\\HttpClientDemo\\HttpClientDemo\\Domains\\Post.cs",
               "RelativeDocumentMoniker": "HttpClientDemo\\Domains\\Post.cs",
@@ -85,18 +84,17 @@
               "RelativeToolTip": "HttpClientDemo\\Domains\\Post.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T09:39:15.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T09:39:15.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IHttpClientServices.cs",
               "DocumentMoniker": "D:\\Projects\\HttpClientDemo\\HttpClientDemo\\HttpClientService\\IHttpClientServices.cs",
               "RelativeDocumentMoniker": "HttpClientDemo\\HttpClientService\\IHttpClientServices.cs",
               "ToolTip": "D:\\Projects\\HttpClientDemo\\HttpClientDemo\\HttpClientService\\IHttpClientServices.cs",
               "RelativeToolTip": "HttpClientDemo\\HttpClientService\\IHttpClientServices.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAgwAoAAAAmAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwAkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T09:26:56.313Z",
               "EditorCaption": ""
@@ -111,8 +109,7 @@
               "RelativeToolTip": "HttpClientDemo\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAgwBIAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T09:00:28.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T09:00:28.521Z"
             }
           ]
         }

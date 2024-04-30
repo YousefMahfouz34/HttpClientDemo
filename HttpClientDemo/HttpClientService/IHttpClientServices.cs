@@ -7,7 +7,7 @@ namespace HttpClientDemo.HttpClientService
         Task<List<Post>> GetAllAsync();
         Task<Post> GetByIdAsync(int id);
         Task AddAsync(Post post);
-        Task<Post>UpdateAsync(Post post);
+        Task<bool>UpdateAsync(Post post);
         Task<bool>DeleteAsync(int id);
       
     }

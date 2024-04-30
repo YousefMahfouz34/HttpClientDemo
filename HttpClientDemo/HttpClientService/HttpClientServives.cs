@@ -12,21 +12,22 @@ namespace HttpClientDemo.HttpClientService
         private readonly HttpClient httpClient;
         public HttpClientServives()
         {
+            //https://localhost:7232/api/Posts/Delete?id=1
             httpClient = new HttpClient();
-            httpClient.BaseAddress = new Uri("https://jsonplaceholder.typicode.com/");
+            httpClient.BaseAddress = new Uri("https://localhost:7232/api/Posts/");
         }
         public async Task AddAsync(Post post)
         {
             //var postcreate = JsonSerializer.Serialize(post);
             //var requestContent = new StringContent(postcreate, Encoding.UTF8, "application/json");
             httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", "xxxxxxxxxxxxxxxxxxxx");
-            var response = await httpClient.PostAsJsonAsync<Post>("Posts", post);
+            var response = await httpClient.PostAsJsonAsync<Post>("AddPost", post);
            
         }
 
         public async Task<bool> DeleteAsync(int id)
         {
-            var res = await httpClient.DeleteAsync($"Posts/{id}");
+            var res = await httpClient.DeleteAsync($"Delete?id={id}");
             // Process response
             return res.IsSuccessStatusCode;
 
@@ -34,7 +35,7 @@ namespace HttpClientDemo.HttpClientService
 
         public async Task<List<Post>> GetAllAsync()
         {
-            var response = await httpClient.GetAsync("Posts");
+            var response = await httpClient.GetAsync("GetAllPosts");
             response.EnsureSuccessStatusCode();
   
             var content = await response.Content.ReadFromJsonAsync<List<Post>>();
@@ -45,7 +46,7 @@ namespace HttpClientDemo.HttpClientService
 
         public async Task<Post> GetByIdAsync(int id)
         {
-            var response = await httpClient.GetAsync($"Posts/{id}");
+            var response = await httpClient.GetAsync($"GetPostById?id={id}");
             response.EnsureSuccessStatusCode();
             var content = await response.Content.ReadFromJsonAsync<Post>();
             return content;
@@ -55,21 +56,14 @@ namespace HttpClientDemo.HttpClientService
                // return posts;
         }
 
-        public async Task<Post> UpdateAsync(Post post)
+        public async Task<bool> UpdateAsync(Post post)
         {
-            try
-            {
-                var response = await httpClient.PutAsJsonAsync<Post>($"Posts/{post.id}", post);
-                response.EnsureSuccessStatusCode();
-                var res = response.Content.ReadAsAsync<Post>();
-                return post;    
-            }
-            catch (Exception ex) 
-            {
-                throw ex;   
-            }
-
             
+                var response = await httpClient.PutAsJsonAsync("Update", post); // No need to specify the type parameter
+                response.EnsureSuccessStatusCode();
+                    return response != null ? true : false;
+
+
 
         }
     }
